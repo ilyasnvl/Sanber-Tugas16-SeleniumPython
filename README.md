@@ -4,7 +4,7 @@ Automation Testing using Selenium Python in web https://opensource-demo.orangehr
 ## How to Run Test
 1. Open File project
 2. Open Terminal in VSCODE
-3. Running the test with the command "python running.py"
+3. Running the test with the command "python runner.py"
 
 ## Result & Record Automation Test
 https://drive.google.com/file/d/1jWdT0wX5x_OALB0D5vhvhbQzkOC29AlV/view?usp=drive_link 
